@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "PodSpec"
   spec.version      = "0.0.1"
-  spec.summary      = "A short description of PodSpec."
+  spec.summary      = "PodSpec 简单介绍"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,9 +25,10 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
+  I'm YUEYONG  WEI E-mail is 1416029891@qq.com
                    DESC
 
-  spec.homepage     = "https://github.com/kakao6/PodSpec"
+  spec.homepage     = "https://github.com/kakao6/mypodSpec"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -38,8 +39,8 @@ Pod::Spec.new do |spec|
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
 
-  spec.license      = "MIT (example)"
-  # spec.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+  #spec.license      = "MIT (example)"
+   spec.license      = { :type => "MIT", :file => "FILE_LICENSE" }
 
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
